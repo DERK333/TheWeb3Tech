@@ -43,9 +43,11 @@ nextjs/
 
 ```
 
-## 🧩 Page Editing
+## 🧩 My Site
 
-You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
+ It is created to showcase the shit I feel is useful or I find has value. Or I am just sharing because I haven't found the glitch at that excited moment🫪🤔
+
+
 
 ## 🎨 Styling
 
@@ -84,8 +86,8 @@ You can check out the [Next.js GitHub repository](https://github.com/vercel/next
 
 ## 🙏 Acknowledgments
 
-- Built with [Rocket.new](https://rocket.new)
+- Built with [Rocket.new](https://rocket.new) and [Google Sites](https://sites.google.com)
 - Powered by Next.js and React
 - Styled with Tailwind CSS
 
-Built with ❤️ on Rocket.new
+Built with Rocket.new & Google Sites   
